@@ -141,8 +141,8 @@ task.grid(padx=30, pady=10)
 question = Button(right_frame, text="special question", command=spezialfrage, height = 2, width = 30)
 question.grid(padx=30, pady=10)
 
-addStatement = Button(right_frame, text="add statement", height = 2, width = 30)
-addStatement.grid(padx=30, pady=10)
+#addStatement = Button(right_frame, text="add statement", height = 2, width = 30)
+#addStatement.grid(padx=30, pady=10)
 
 
 #messagebox youtube
